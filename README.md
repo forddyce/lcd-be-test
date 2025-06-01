@@ -24,3 +24,6 @@ Guide for ubuntu machine:
   `python main.py` <-- this is the root main.py, _not_ the one inside app folder
 
 if you go to http://127.0.0.1:8000/, you should see the success message, means setup is OK.
+
+[update]
+added postman collection on root for testing
