@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic[email]
+python-jose[cryptography] # For JWT
+passlib[bcrypt] # For password hashing
+PyMySQL
+python-dotenv # For managing environment variables
